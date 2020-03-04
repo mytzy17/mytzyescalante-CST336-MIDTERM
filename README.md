@@ -15,11 +15,15 @@ B. False
 Question 3: Output =>
 
 Question 4: 
-a = document
-b = html
-c = head
-d = body
-e = img
+1.document
+2. html
+3. head (head is connected to html)
+- title 
+-text
+4. body (body is connected to html)
+- img (contains hieght and width)
+- <p> (contains span and text)
+
 
 document
 |
