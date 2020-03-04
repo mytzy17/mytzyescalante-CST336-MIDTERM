@@ -15,7 +15,7 @@ B. False
 Question 3: Output =>
 
 Question 4: 
-1.document
+1. document
 2. html
 3. head (head is connected to html)
 - title 
