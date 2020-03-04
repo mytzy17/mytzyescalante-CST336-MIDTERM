@@ -25,14 +25,6 @@ Question 4:
 - <p> (contains span and text)
 
 
-document
-|
-html
-|    |
-head body   => body has img and <p>
-|      |                    |
-title.  img               <p>
-|        |                  |
-text.    width/height       span/text
+
 
   
